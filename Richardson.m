@@ -12,7 +12,7 @@ c=test(U,n); % appele a la fonction de convergence, si convergente il continue
 % end
 
 
-% 
+ 
 % if c
 %     Ak(m)=U(m+1)+...
 %         1./((1./(U(m+2)-U(m+1))-(1./(U(m+1)-U(m)))));
